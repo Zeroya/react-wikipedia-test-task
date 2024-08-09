@@ -1,2 +1,3 @@
-# React + TypeScript + Vite
-DEPLOY LINK - https://zeroya.github.io/react-ai-marketing-platform-test-task/ 
+# React + TypeScript + Vite + REDUX TOOLKIT + VITEST + REACT TESTING LIBRARY
+
+DEPLOY LINK -
